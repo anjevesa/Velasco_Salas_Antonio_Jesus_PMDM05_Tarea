@@ -1481,7 +1481,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &786270578
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2479,7 +2479,7 @@ MonoBehaviour:
   Paddle_Transform_Right_2: {fileID: 1425869972}
   Ball_Transform: {fileID: 764981053}
   BotonSalir: {fileID: 786270579}
-  BotonReiniciar: {fileID: 0}
+  BotonReiniciar: {fileID: 1985610722}
   objetivos: []
   resultado: {fileID: 172437406}
 --- !u!4 &1399054034
@@ -3258,7 +3258,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1985610721
 RectTransform:
   m_ObjectHideFlags: 0
