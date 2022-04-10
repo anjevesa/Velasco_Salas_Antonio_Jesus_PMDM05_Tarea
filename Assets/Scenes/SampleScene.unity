@@ -582,7 +582,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!61 &267917326
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1355,7 +1355,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &764981051
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1461,7 +1461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da4d1c41ddc7d7c48ba986b817e8f0e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialVelocity: 8
+  initialVelocity: 4
   velocityMultiplier: 1.1
 --- !u!1 &786270577
 GameObject:
@@ -2213,7 +2213,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 0
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!61 &1332269478
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2554,7 +2554,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!61 &1425869970
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2705,7 +2705,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!61 &1440228136
 BoxCollider2D:
   m_ObjectHideFlags: 0
